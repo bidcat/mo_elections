@@ -1,2 +1,2 @@
-# mo_elections
-Personal poking at Missouri election results
+# Missouri Elections Data
+Standardized election results data for Missouri.
